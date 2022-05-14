@@ -1,6 +1,6 @@
 [
     {
-        "photo": "https://rajmahavar.github.io/jsonapi/images/1.jpg",
+        "userPhoto": "https://rajmahavar.github.io/jsonapi/images/1.jpg",
         "id": "Emp:005",
         "name": "Lekhraj",
         "email": "lekhraj@gmail.com",
@@ -8,7 +8,7 @@
         "joinYear": 2014
     },
     {
-        "photo": "https://rajmahavar.github.io/jsonapi/images/2.jpg",
+        "userPhoto": "https://rajmahavar.github.io/jsonapi/images/2.jpg",
         "id": "Emp:105",
         "name": "Lalit",
         "email": "lalit@gmail.com",
@@ -16,7 +16,7 @@
         "joinYear": 2010
     },
     {
-        "photo": "https://rajmahavar.github.io/jsonapi/images/3.jpg",
+        "userPhoto": "https://rajmahavar.github.io/jsonapi/images/3.jpg",
         "id": "Emp:125",
         "name": "Kailash Chand",
         "email": "kailash@galaxy.com",
@@ -24,7 +24,7 @@
         "joinYear": 2012
     },
     {
-        "photo": "https://rajmahavar.github.io/jsonapi/images/4.jpg",
+        "userPhoto": "https://rajmahavar.github.io/jsonapi/images/4.jpg",
         "id": "Emp:151",
         "name": "Suraj",
         "email": "suraj@galaxy.com",
@@ -32,7 +32,7 @@
         "joinYear": 2012
     },
     {
-        "photo": "https://rajmahavar.github.io/jsonapi/images/5.png",
+        "userPhoto": "https://rajmahavar.github.io/jsonapi/images/5.png",
         "id": "Emp:250",
         "name": "Sudiya",
         "email": "sudiya@galaxy.com",
@@ -40,7 +40,7 @@
         "joinYear": 2011
     },
     {
-        "photo": "https://rajmahavar.github.io/jsonapi/images/6.png",
+        "userPhoto": "https://rajmahavar.github.io/jsonapi/images/6.png",
         "id": "Emp:300",
         "name": "Vineet",
         "email": "vinit@galaxy.com",
@@ -48,7 +48,7 @@
         "joinYear": 2010
     },
     {
-        "photo": "https://rajmahavar.github.io/jsonapi/images/7.jpg",
+        "userPhoto": "https://rajmahavar.github.io/jsonapi/images/7.jpg",
         "id": "Emp:325",
         "name": "Kailash Arya",
         "email": "kailasharya@galaxy.com",
