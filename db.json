@@ -1,25 +1,23 @@
-{
-  "users": [
+[
     {
-      "id": 1,
-      "name": "Lekhraj",
-      "email": "rajmahavar@gmail.com",
-      "company": "Clavax Technology",
-      "joinYear": 2014
+        "id": 1,
+        "name": "Lekhraj",
+        "email": "rajmahavar@gmail.com",
+        "company": "Clavax Technology",
+        "joinYear": 2014
     },
     {
-      "id": 2,
-      "name": "Sam",
-      "email": "sam@gmail.com",
-      "company": "Clavax Technology",
-      "joinYear": 2016
+        "id": 2,
+        "name": "Sam",
+        "email": "sam@gmail.com",
+        "company": "Clavax Technology",
+        "joinYear": 2016
     },
     {
-      "id": 3,
-      "name": "Parker",
-      "email": "parker@gmail.com",
-      "company": "Clavax Technology",
-      "joinYear": 2019
+        "id": 3,
+        "name": "Parker",
+        "email": "parker@gmail.com",
+        "company": "Clavax Technology",
+        "joinYear": 2019
     }
-  ]
-}
+]
