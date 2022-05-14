@@ -2,22 +2,50 @@
     {
         "id": 1,
         "name": "Lekhraj",
-        "email": "rajmahavar@gmail.com",
-        "company": "Clavax Technology",
+        "email": "lekhraj@gmail.com",
+        "company": "abc.com",
         "joinYear": 2014
     },
     {
         "id": 2,
-        "name": "Sam",
-        "email": "sam@gmail.com",
-        "company": "Clavax Technology",
-        "joinYear": 2016
+        "name": "Lalit",
+        "email": "lalit@gmail.com",
+        "company": "intint.in",
+        "joinYear": 2010
     },
     {
         "id": 3,
-        "name": "Parker",
-        "email": "parker@gmail.com",
-        "company": "Clavax Technology",
-        "joinYear": 2019
+        "name": "Kailash Chand",
+        "email": "kailash@galaxy.com",
+        "company": "Galaxy Technology",
+        "joinYear": 2012
+    },
+    {
+        "id": 4,
+        "name": "Suraj",
+        "email": "suraj@galaxy.com",
+        "company": "Myntra",
+        "joinYear": 2012
+    },
+    {
+        "id": 5,
+        "name": "Sudiya",
+        "email": "sudiya@galaxy.com",
+        "company": "Divplayer",
+        "joinYear": 2011
+    },
+    {
+        "id": 6,
+        "name": "Vineet",
+        "email": "vinit@galaxy.com",
+        "company": "Global",
+        "joinYear": 2010
+    },
+    {
+        "id": 7,
+        "name": "Kailash Arya",
+        "email": "kailasharya@galaxy.com",
+        "company": "Times",
+        "joinYear": 2009
     }
 ]
