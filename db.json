@@ -4,7 +4,7 @@
         "id": "Emp:005",
         "name": "Lekhraj",
         "email": "lekhraj@gmail.com",
-        "company": "abc.com",
+        "company": "Orange MNC",
         "joinYear": 2014
     },
     {
@@ -12,7 +12,7 @@
         "id": "Emp:105",
         "name": "Lalit",
         "email": "lalit@gmail.com",
-        "company": "intint.in",
+        "company": "intint",
         "joinYear": 2010
     },
     {
@@ -28,7 +28,7 @@
         "id": "Emp:151",
         "name": "Suraj",
         "email": "suraj@galaxy.com",
-        "company": "Myntra",
+        "company": "Abcd",
         "joinYear": 2012
     },
     {
@@ -36,7 +36,7 @@
         "id": "Emp:250",
         "name": "Sudiya",
         "email": "sudiya@galaxy.com",
-        "company": "Divplayer",
+        "company": "Anganbadi",
         "joinYear": 2011
     },
     {
@@ -52,7 +52,7 @@
         "id": "Emp:325",
         "name": "Kailash Arya",
         "email": "kailasharya@galaxy.com",
-        "company": "Googlepuls",
+        "company": "MNC",
         "joinYear": 2009
     }
 ]
