@@ -62,5 +62,13 @@
         "email": "hrx@galaxy.com",
         "company": "Bollywood",
         "joinYear": 1947
+    },
+    {
+        "userPhoto": "https://rajmahavar.github.io/jsonapi/images/7.jpg",
+        "id": "Emp:500",
+        "name": "HRX",
+        "email": "hrx@galaxy.com",
+        "company": "Bollywood",
+        "joinYear": 1947
     }
 ]
